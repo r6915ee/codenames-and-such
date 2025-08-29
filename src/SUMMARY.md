@@ -6,4 +6,5 @@
   - [Developer Mode](./setup/developer-mode.md)
 - [Modpacks](./modpacks/index.md)
   - [Modpack Structure](./modpacks/structure.md)
+  - [Creating a Modpack](./modpacks/creating.md)
   - [Addons](./modpacks/addons.md)
