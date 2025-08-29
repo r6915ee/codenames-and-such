@@ -3,5 +3,6 @@
 - [Introduction](./introduction.md)
 - [Setup](./setup/index.md)
   - [Installation](./setup/installation.md)
+  - [Developer Mode](./setup/developer-mode.md)
 - [Modpacks](./modpacks/index.md)
   - [Modpack Structure](./modpacks/structure.md)
