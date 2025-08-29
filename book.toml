@@ -3,3 +3,11 @@ authors = ["r6915ee"]
 language = "en"
 src = "src"
 title = "Codenames and Such"
+
+[build]
+create-missing = false
+
+[output.html]
+git-repository-url = "https://github.com/r6915ee/codenames-and-such"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/r6915ee/codenames-and-such/edit/master/{path}"
