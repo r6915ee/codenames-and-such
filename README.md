@@ -37,8 +37,7 @@ of the web server in your browser.
 
 Some knowledge of [mdBook](https://rust-lang.github.io/mdBook/) is required in
 particular cases. However, for simply editing pages, all you need to know is
-how to edit traditional
-[Markdown](https://daringfireball.net/projects/markdown/), along with using the
+how to edit [CommonMark](https://commonmark.org/), along with using the
 mdBook CLI tool to preview your changes. See [this section](#compiling) for
 more details.
 
