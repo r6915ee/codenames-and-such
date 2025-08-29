@@ -64,4 +64,4 @@ Actions. As such, this section will explicitly follow the website method.
 
 On the main page for the website, there are download buttons just a little
 below the large Codename logo. Simply press on the appropriate platform's
-button and you should download an extract, as usual.
+button and you should download and extract, as usual.
