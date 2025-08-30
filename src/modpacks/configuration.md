@@ -16,7 +16,8 @@ configuration. You can tweak them to your liking.
 
 ### Common
 
-This section prepends the entries below with `MOD_`.
+This section prepends the entries below with `MOD_`. These define the metadata
+of your mod.
 
 |Option       |Default Value              |Description                     |
 |-------------|---------------------------|--------------------------------|
@@ -30,7 +31,7 @@ This section prepends the entries below with `MOD_`.
 
 ### Flags
 
-This section does not apply a prefix to the options.
+This section does not apply a prefix to the options. These are general options.
 
 |Option                |Default Value              |Description                    |
 |----------------------|---------------------------|-------------------------------|
@@ -39,7 +40,9 @@ This section does not apply a prefix to the options.
 
 ### Discord
 
-This section uses the `MOD_DISCORD_` prefix.
+This section uses the `MOD_DISCORD_` prefix. The purpose of these options is
+to configure [Discord Rich
+Presence](https://discord.com/developers/docs/rich-presence/overview).
 
 |Option       |Default Value|Description            |
 |-------------|-------------|-----------------------|
