@@ -30,6 +30,6 @@ for.
 
 When playtesting on anything UNIX-based, including the Steam Deck, preferably
 use a **native build** instead of Wine and/or Proton. This ensures that
-filenames and other features work correctly and can be found more easily.
-Development purely on either of these, especially on Linux, is also a valid
-option if you want to ensure cross-compatibility.
+filenames and other features work correctly and errors can be found more
+easily. Development purely on either of these, especially on Linux, is also a
+valid option if you want to ensure cross-compatibility.
