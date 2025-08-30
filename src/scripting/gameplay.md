@@ -10,7 +10,7 @@ Gameplay scripts will generally either go directly under the `songs` subfolder
 as a global song script, or into a respective song's `scripts` subfolder.
 
 Gameplay scripts are able to modify `PlayState` in nearly every shape. They are,
-however, a category of scripts in general. Things like state scripts follow
+however, a category of scripts in general. Things like stage scripts follow
 similar callbacks.
 
 For certain functionality, some knowledge of the `PlayState` API is required.
