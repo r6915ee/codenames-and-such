@@ -19,10 +19,12 @@ emitted.
 Some callbacks are grouped into their own subsections, due to a similar
 premise.
 
-Two valid callback examples include:
+Three valid callback examples include:
 
 * `[pre, post](c)reate`: Called when the script is created.
 * `<pre, post>GameStart`: Called during initialization of the game.
+* `onStageXMLParsed{StageXMLEvent}`: Called once the stage definition has been
+  parsed successfully.
 
 The basic syntax of the name is as follows:
 
@@ -31,3 +33,5 @@ The basic syntax of the name is as follows:
   and is otherwise required if typical comparison signs are used (`<`, `>`).
 * Parentheses define that one or more lowercase characters included between
   them may be capitalized when there is a prefix.
+* Angled brackets are used when an event is passed to the callback. Inside
+  the angle brackets is the event type for reference.
