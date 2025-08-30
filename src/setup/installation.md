@@ -47,6 +47,10 @@ as you normally would.
 > Windows users: **Never, ever, put Codename in your Desktop directory**. This
 > directory contains special properties that don't allow Codename to run
 > properly. You should place it somewhere else, like your Documents directory.
+>
+> Every user: Codename has trouble running under paths where there are special
+> characters in them. You should preferably use standard English paths to avoid
+> this.
 
 ### GameBanana, itch
 
