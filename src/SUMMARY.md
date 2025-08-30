@@ -8,3 +8,5 @@
   - [Modpack Structure](./modpacks/structure.md)
   - [Creating a Modpack](./modpacks/creating.md)
   - [Addons](./modpacks/addons.md)
+- [Scripting](./scripting/index.md)
+  - [Callbacks](./scripting/callbacks.md)
