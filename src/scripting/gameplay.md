@@ -82,7 +82,7 @@ function onCameraMove(event:CamMoveEvent) {
 
 * `curCameraTarget` is an integer variable that describes which strumline
   `camGame` has to hover over.
-* `defaultCamZoom` defines the zoom level to tween to by default.
+* `defaultCamZoom` defines the zoom level to tween to by default for `camGame`.
 
 ### Use Losing Icon As Winning For Dad
 
