@@ -22,6 +22,14 @@ Install [mdBook](https://rust-lang.github.io/mdBook/). This is the main
 program for displaying the book, and provides features such as compiling the
 book, opening a hot-reload-supporting web server for the book, and more.
 
+### Highlight.js
+
+For reference: Codenames and Such uses a custom build of
+[Highlight.js](https://highlightjs.org/), downloaded from the website, that
+includes Haxe syntax highlighting. While it's already included in the
+repository under `themes/highlight.js` and is already standardized in mdBook,
+it's worth a mention.
+
 ### Opening a Server
 
 Use the following mdBook subcommand:
