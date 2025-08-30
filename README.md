@@ -50,9 +50,6 @@ Pull requests should *preferably* have their commits squashed in most cases,
 or simply just comprise of one commit. However, this is not necessary for most
 pull requests.
 
-A set of approved code reviews is required to allow the pull request to be
-merged.
-
 ## License
 
 The book is licensed under the [MIT license](LICENSE).
