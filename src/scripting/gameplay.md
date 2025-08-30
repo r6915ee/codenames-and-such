@@ -50,7 +50,7 @@ The following examples use some parts of the API on the documentation.
   the music are actually initialized.
 * `on[Post]InputUpdate{[InputSystemEvent]}`: Issued whenever the input gets
   updated.
-  > Note: The `post` varaint does not supply an event.
+  > Note: The `post` variant does not supply an event.
 * `on[Post]PlayerMiss{NoteMissEvent}`: Called when the player misses.
 * `on[Post]GameOver{GameOverEvent}`: Issued upon the player receiving a Game
   Over.
