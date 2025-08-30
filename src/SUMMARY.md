@@ -10,3 +10,4 @@
   - [Addons](./modpacks/addons.md)
 - [Scripting](./scripting/index.md)
   - [Callbacks](./scripting/callbacks.md)
+  - [Global Scripts](./scripting/global-scripts.md)
