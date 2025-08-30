@@ -11,5 +11,6 @@
   - [Addons](./modpacks/addons.md)
 - [Scripting](./scripting/index.md)
   - [Callbacks](./scripting/callbacks.md)
+    - [Callback Events](./scripting/events.md)
   - [Global Scripts](./scripting/global-scripts.md)
   - [Gameplay Scripts](./scripting/gameplay.md)

@@ -5,6 +5,9 @@ directly emitted by the source code and into scripts. They act somewhat
 similar to entry points in most languages, including standard Haxe itself, but
 are used for scripts and can usually coexist with each other.
 
+A callback may have an [event](./events.md) attached to it, for modification
+purposes.
+
 > Most states have unique callbacks for specific purposes. One callback use
 > may not work for another.
 
