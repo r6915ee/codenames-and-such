@@ -3,9 +3,9 @@
 Callback events, or simply just events, are containers of data for callbacks.
 They are typically the only parameter of any callback.
 
-A callback event is different from a chart event in that callback events are
-used exclusively for scripting, while chart events are instantiated through
-charts and operate only on [`PlayState`](./gameplay.md).
+A callback event is different from a [chart event](./chart-events.md) in that
+callback events are used exclusively for scripting, while chart events are
+instantiated through charts and operate only on [`PlayState`](./gameplay.md).
 
 ## Common Events
 

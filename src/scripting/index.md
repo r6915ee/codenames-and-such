@@ -4,3 +4,4 @@
   - [Callback Events](./events.md)
 - [Global Scripts](./global-scripts.md)
 - [Gameplay Scripts](./gameplay.md)
+  - [Chart Events](./chart-events.md)
