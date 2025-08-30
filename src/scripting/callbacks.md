@@ -28,10 +28,12 @@ Three valid callback examples include:
 
 The basic syntax of the name is as follows:
 
-* Prefixes are grouped using typical array syntax, albeit in a command-line
-  style. A prefix is optional if this array is made using square brackets,
-  and is otherwise required if typical comparison signs are used (`<`, `>`).
+* Square brackets denote optional values, where either the part can be
+  omitted entirely, or one value out of the list is chosen and replaces that
+  part.
+* The two standard comparison operators, `<` and `>`, are similar to square
+  brackets, but cannot be omitted.
 * Parentheses define that one or more lowercase characters included between
   them may be capitalized when there is a prefix.
-* Angled brackets are used when an event is passed to the callback. Inside
+* Angle brackets are used when an event is passed to the callback. Inside
   the angle brackets is the event type for reference.
