@@ -17,3 +17,5 @@
   - [State Scripts](./scripting/states.md)
   - [Gameplay Scripts](./scripting/gameplay.md)
     - [Chart Events](./scripting/chart-events.md)
+- [Extras](./extras/index.md)
+  - [Sparrow Atlases](./extras/sparrow.md)
