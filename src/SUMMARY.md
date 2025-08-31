@@ -14,5 +14,6 @@
   - [Callbacks](./scripting/callbacks.md)
     - [Callback Events](./scripting/events.md)
   - [Global Scripts](./scripting/global-scripts.md)
+  - [State Scripts](./scripting/states.md)
   - [Gameplay Scripts](./scripting/gameplay.md)
     - [Chart Events](./scripting/chart-events.md)
