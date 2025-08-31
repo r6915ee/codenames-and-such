@@ -14,6 +14,9 @@ configuration. You can tweak them to your liking.
 
 ## Available tables
 
+A full list of options can be found
+[here](https://codename-engine.com/api-docs/funkin/backend/system/Flags).
+
 ### Common
 
 This section prepends the entries below with `MOD_`. These define the metadata
