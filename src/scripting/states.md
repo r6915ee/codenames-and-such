@@ -114,7 +114,7 @@ DEFAULT_PAUSE_SCRIPT="data/states/pause.hx"
 ```
 
 Do note, however, that **this is not equivalent to a state redirect, nor is
-it possible to do using the configuration**. Instead, you may want to do the
+that possible to do using the configuration**. Instead, you may want to do the
 following in a [gameplay script](./gameplay.md):
 
 ```haxe
