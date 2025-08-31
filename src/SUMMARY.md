@@ -19,3 +19,4 @@
     - [Chart Events](./scripting/chart-events.md)
 - [Extras](./extras/index.md)
   - [Sparrow Atlases](./extras/sparrow.md)
+  - [Tools](./extras/tools.md)
