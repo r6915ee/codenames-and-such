@@ -1,15 +1,14 @@
-# Filenames
-
-Do note that **filenames are important for cross-compatibility**. Specifically,
-you should prefer lowercase.
-
-The reason is that platforms like Linux have case-sensitive filenames. This
-makes it so that they will not work well natively if the filepath isn't
-correct.
+# Cross-compatibility
 
 In general, a good way to test your mod for cross-compatibility is to have
 playtesters on various platforms, to see how it performs and to look for
 oddities.
+
+Another valid option is to develop *entirely* on a platform other than Windows.
+This is especially the case for Linux distributions, such as
+[Ubuntu](https://ubuntu.com/desktop), [Fedora](https://fedoraproject.org/),
+[Arch](https://archlinux.org/), and even [NixOS](https://nixos.org/) using
+a runtime, as a few examples.
 
 Use the console to look for filename errors, and correct them as usual.
 

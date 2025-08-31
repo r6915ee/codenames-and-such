@@ -8,7 +8,7 @@
   - [Modpack Structure](./modpacks/structure.md)
   - [Creating a Modpack](./modpacks/creating.md)
   - [Modpack Configuration](./modpacks/configuration.md)
-  - [Filenames](./modpacks/filenames.md)
+  - [Cross-compatibility](./modpacks/compatibility.md)
   - [Addons](./modpacks/addons.md)
 - [Scripting](./scripting/index.md)
   - [Callbacks](./scripting/callbacks.md)

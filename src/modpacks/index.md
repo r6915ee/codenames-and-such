@@ -3,5 +3,5 @@
 - [Modpack Structure](./structure.md)
 - [Creating a Modpack](./creating.md)
 - [Modpack Configuration](./configuration.md)
-- [Filenames](./filenames.md)
+- [Cross-compatibility](./compatibility.md)
 - [Addons](./addons.md)
