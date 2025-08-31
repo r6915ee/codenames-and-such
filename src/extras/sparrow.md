@@ -34,5 +34,5 @@ included, but a *good* amount is four digits, which is present in the examples
 above.
 
 > Note: Some spritesheet generators may include the file extension in the
-> subtexture names. You may either need to configure the program to exlude the
+> subtexture names. You may either need to configure the program to exclude the
 > file extension, or remove the file extension manually.
