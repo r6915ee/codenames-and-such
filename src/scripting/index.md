@@ -5,4 +5,4 @@
 - [Global Scripts](./global-scripts.md)
 - [State Scripts](./states.md)
 - [Gameplay Scripts](./gameplay.md)
-  - [Chart Events](./chart-events.md)
+  - [Local Scripts](./local-scripts.md)

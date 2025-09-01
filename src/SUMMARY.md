@@ -16,7 +16,7 @@
   - [Global Scripts](./scripting/global-scripts.md)
   - [State Scripts](./scripting/states.md)
   - [Gameplay Scripts](./scripting/gameplay.md)
-    - [Chart Events](./scripting/chart-events.md)
+    - [Local Scripts](./scripting/local-scripts.md)
 - [Extras](./extras/index.md)
   - [Sparrow Atlases](./extras/sparrow.md)
   - [Tools](./extras/tools.md)
