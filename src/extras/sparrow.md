@@ -11,6 +11,17 @@ A sparrow atlas comprises of an image containing all of the frames, and then
 an XML file declaring the metadata and **subtextures** of the spritesheet,
 which are the frames present in the image.
 
+## Loading
+
+Codename should be able to load sparrow atlases automatically.
+
+Do note, however, that some special consideration needs to be taken into when
+using sparrow atlases. Codename will usually check for the definition file
+first, parse the filename without the file extension, and then search for
+an image file with that parsed filename prepended. This unfortunately
+does not work with the image attribute in these definitions, so both files
+need to be named the same.
+
 ## Filenames
 
 Some special considerations need to be taken into in regards to filenames and,
