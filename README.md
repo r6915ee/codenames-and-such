@@ -6,17 +6,17 @@
 [Codename Engine](https://codename-engine.com) that details certain development
 practices, as well as tips and tricks.
 
-> [!CAUTION]
-> The book is currently incomplete. Contributions are welcomed under the
-> [terms below](#contributing).
+> [!NOTE]
+> While the book is complete in terms of pages, ontributions are welcomed under
+> the [terms below](#contributing).
 
 ## Compiling
 
 > [!NOTE]
 > [Nix](https://nixos.org/) users have a basic development shell configuration
 > available that loads [mdBook](https://rust-lang.github.io/mdBook/) for use.
-> If you are using a Nix shell, then skip to
-> [Opening a Server](#opening-a-server).
+> If you are using a Nix shell, then skip to [Opening a
+> Server](#opening-a-server).
 
 Install [mdBook](https://rust-lang.github.io/mdBook/). This is the main
 program for displaying the book, and provides features such as compiling the

@@ -16,5 +16,5 @@ more intended for tips and tricks, as well as providing decisions based
 on circumstances. It's also meant to be more of a guide.
 
 > Warning:
-> The book is currently still being developed. Contributions are welcome
-> under the MIT license.
+> While the book is complete, contributions are welcome under the terms
+> described [here](https://github.com/r6915ee/codenames-and-such#contributing).
